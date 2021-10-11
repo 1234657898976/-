@@ -3,7 +3,6 @@
         <mata charset="utf-8"></mata>
     </hesd>
     <body>
-        <h1></h1>
         <li><img src="圖片/1.png" alt="1"></li>
         <h6>網址</h6>
         <ul>
