@@ -1,18 +1,13 @@
+ul {
+    background-color: black;
+}
+li {
+    color: white;
+}
 p {
     width: 500px;
     font-size: 20px;
 }
-img {
-    width: 9000px;
-}
-h1 {
-    color:white;
-    background-color: black;
-}
-ul {
-    color:white;
-    background-color: black;
-}
 a {
-    color: white;
+    color: red;
 }
