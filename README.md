@@ -1,10 +1,9 @@
 <html>
     <hesd>
         <mata charset="utf-8"></mata>
-        <li><img src="圖片/1.png" alt="1"></li>
     </hesd>
     <body>
-        
+        <li><img src="圖片/1.png" alt="1"></li>
         <h1>網址</h1>
         <ul>
         <li><p>youtube:<a href="https://www.youtube.com/channel/UCUL3ftFNvPovS-f18SdFhEg">江西</a></p></li>
