@@ -11,3 +11,7 @@ p {
 a {
     color: red;
 }
+h1 {
+    width: 70px;
+    border: 10px solid black;
+}
