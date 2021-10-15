@@ -10,7 +10,6 @@
         <ul>
         <li>youtube連結:<a href="https://www.youtube.com/channel/UCUL3ftFNvPovS-f18SdFhEg">江西</a></li>
         <li>FB連結:<a href="https://www.facebook.com/profile.php?id=100068670226171">江西</a></li>
-        <li>123<a href="https://www.facebook.com/profile.php?id=100068670226171"><img src="圖片/GreeN on Twitter.jpg" alt="1"></a></li>
         </ul>
     </body>
 </html>
