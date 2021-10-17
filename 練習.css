@@ -1,7 +1,10 @@
+html {
+    background-color: pink;
+}
 ul {
     background-color: rgb(29, 27, 27);
     color: white;
-    width: 500px;
+    width: 10000px;
     font-size: 20px;
 }
 a {
@@ -10,4 +13,12 @@ a {
 h1 {
     width: 100px;
     border: 10px solid black;
+}
+img#A {
+    width: 600px;
+    padding: 50px 0px 5px 300px;
+}
+img#B {
+    width: 30px;
+    padding: 5px 0px 0px 4px;
 }
