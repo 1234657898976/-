@@ -1,6 +1,12 @@
 html {
     background-color: pink;
 }
+head {
+    background-color: pink;
+}
+body {
+    background-color: pink;
+}
 ul {
     background-color: rgb(29, 27, 27);
     color: white;
@@ -21,4 +27,5 @@ img#A {
 img#B {
     width: 30px;
     padding: 5px 0px 0px 4px;
+    background-color: rgb(29, 27, 27);
 }
