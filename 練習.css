@@ -1,20 +1,17 @@
-html {
+html,head,body{
     background-color: pink;
 }
-head {
-    background-color: pink;
-}
-body {
-    background-color: pink;
+p#D {
+    color: white;
+    font-size: 50px;
+    width: 1000px;
+    padding: 0px 0px 0px 400px;
 }
 ul {
     background-color: rgb(29, 27, 27);
     color: white;
-    width: 10000px;
+    width: 1137px;
     font-size: 20px;
-}
-a {
-    color: red;
 }
 h1 {
     width: 100px;
@@ -28,4 +25,13 @@ img#B {
     width: 30px;
     padding: 5px 0px 0px 4px;
     background-color: rgb(29, 27, 27);
+}
+button#C:hover {
+    background-color: chartreuse;
+}
+button#C {
+    font-size: 50px;
+}
+p#C {
+    padding: 0px 0px 0px 300px;
 }
