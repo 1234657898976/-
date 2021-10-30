@@ -8,8 +8,7 @@
         <img src="圖片/1.png" alt="1" id="A">
         <p id="D"></p>
         <p id="C"><button id="C" onclick="b();">沒事請點我</button></p>
-        <iframe width="620" height="515" src="https://youtu.be/NQLfA6N1LxA?autoplay=1&mute=1&loop=1">
-        </iframe>
+        <iframe width="620" height="515" src="https://youtu.be/NQLfA6N1LxA?autoplay=1&mute=1&loop=1"></iframe>
         <h2 id="3">網址</h2>
         <ul>
         <li>youtube連結:<a href="https://www.youtube.com/channel/UCUL3ftFNvPovS-f18SdFhEg"><img src="圖片/4.png" id="B"></a></li>
