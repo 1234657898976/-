@@ -8,7 +8,7 @@
         <img src="圖片/1.png" alt="1" id="A">
         <p id="D"></p>
         <p id="C"><button id="C" onclick="b();">沒事請點我</button></p>
-        <h1 id="3">網址</h1>
+        <h2 id="3">網址</h2>
         <ul>
         <li>youtube連結:<a href="https://www.youtube.com/channel/UCUL3ftFNvPovS-f18SdFhEg"><img src="圖片/4.png" id="B"></a></li>
         <li>FB連結:<a href="https://www.facebook.com/profile.php?id=100068670226171"><img src="圖片/3.png" id="B"></a></li>
