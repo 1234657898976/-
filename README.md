@@ -1,9 +1,9 @@
-<html id="2">
+<html>
     <hesd>
         <mata charset="utf-8"></mata>
         <title>歡迎蒞臨</title>
     </hesd>
-    <body id="1">
+    <body>
         <a href="練習.html"><button>由此進入主頁</button></a>
     </body>
     <script>
