@@ -24,7 +24,6 @@ img#A {
 img#B {
     width: 30px;
     padding: 5px 0px 0px 4px;
-    background-color: rgb(29, 27, 27);
 }
 button#C:hover {
     background-color: chartreuse;
