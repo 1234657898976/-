@@ -4,7 +4,7 @@
         <title>歡迎蒞臨</title>
     </hesd>
     <body id="1">
-        <a href="練習.htm"><button>由此進入主頁</button></a>
+        <a href="練習.html"><button>由此進入主頁</button></a>
     </body>
     <script>
     function a(){
