@@ -3,4 +3,9 @@ html,head,body{
 }
 p{
     color: gold;
+    font-size: 50px;
+}
+button{
+    border-radius: 50px;
+    font-size: 50px;
 }
