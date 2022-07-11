@@ -7,10 +7,6 @@ D[2]=darkgreen;
 D[3]=gold;
 D[4]=magenta;
 D[5]=saddlebrown;
-function a(){
-    var b = "歡迎蒞臨";
-    alert (b);
-}
 function b(){
     var A=[10],B=[50];
     for (E=0;E<=10;E++){
@@ -19,12 +15,12 @@ function b(){
     for (E=0;E<=50;E++){
         B[E]=F+2;
     }
-    A[0]="red";
-    A[1]="blue";
-    A[2]="black";
-    A[3]="chartreuse";
+    A[0]="#990000";
+    A[1]="#009900";
+    A[2]="#000000";
+    A[3]="0000099";
     B[0]="你真的很閒齁來點按鈕";
-    B[19]="阿巴阿巴";
+    B[1]="阿巴阿巴";
     B[20]="你肯定太無聊了";
     if (A[C+1]===0){
         C=-1;
@@ -41,4 +37,3 @@ function b(){
     document.getElementById("3").style.color="white";
     document.getElementById("3").style.borderColor="white";
 }
-console.log(a());
