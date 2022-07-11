@@ -34,3 +34,9 @@ button#C {
 p#C {
     padding: 0px 0px 0px 300px;
 }
+button#Cc:hover {
+    background-color: #805030;
+}
+button#Cc {
+    font-size: 50px;
+}
